@@ -1,16 +1,17 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**csprasad/csprasad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# C S Prasad
 
-Here are some ideas to get you started:
+I write code. Mostly in Swift.  
+Sometimes bots, sometimes UI, sometimes whatever feels interesting.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr style="border:none; height:1px; background-color:#eee;" />
+
+· [Portfolio](https://csprasad.github.io) ·
+
+<hr style="border:none; height:1px; background-color:#eee;" />
+
+ _Code that sleeps is just waiting for the right idea._
+ 
+
+</div>
