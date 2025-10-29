@@ -13,7 +13,6 @@ Sometimes bots, sometimes UI, sometimes whatever feels interesting.
 
  _Code that sleeps is just waiting for the right idea._
 
- <hr style="border:none; height:1px; background-color:#eee;" />
 
  [![CSPrasad's GitHub stats](https://github-readme-stats.vercel.app/api?username=csprasad&show_icons=true&theme=tokyonight&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 </div>
