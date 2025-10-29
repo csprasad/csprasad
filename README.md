@@ -15,3 +15,5 @@ Sometimes bots, sometimes UI, sometimes whatever feels interesting.
  
 
 </div>
+
+[![CSPrasad's GitHub stats](https://github-readme-stats.vercel.app/api?username=csprasad&show_icons=true&theme=tokyonight&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
