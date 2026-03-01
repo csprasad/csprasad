@@ -4,7 +4,7 @@
 
 👋 Hi! <br>
 I write code mostly in Swift. <br>
-Always exploring whatever looks interesting.
+I like turning random ideas into Swift & SwiftUI experiments. <br> 
 
 <hr style="border:none; height:1px; background-color:#2d2d2d;" />
 
