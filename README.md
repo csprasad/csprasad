@@ -1,48 +1,31 @@
 <div align="center">
 
-# C S Prasad
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=160&section=header&text=C%20S%20Prasad&animation=fadeIn&desc=iOS%20Engineer&descAlign=50&descAlignY=40&descSize=15&fontAlign=50&fontAlignY=25&fontSize=30&fontColor=ffffff" />
 
-👋 Hi! <br>
-I write code mostly in Swift. <br>
-I like turning random ideas into Swift & SwiftUI experiments. <br> 
+<h3>Swift • SwiftUI</h3>
 
-<hr style="border:none; height:1px; background-color:#2d2d2d;" />
+<p style="max-width:650px; line-height:1.6; font-size:14px; margin-top:10px;">
+I build and iterate on <b>iOS products</b> with a focus on <b>Experience, Detail, and Feel.</b>
+<br>
+I spend a lot of time exploring <b>interactions, animations, and tools</b>
+<br>
+Figuring out what actually feels right.
+</p>
 
-<div align="center" style="line-height:0">
-  <a href="https://exercism.org/profiles/codeAlligator"
-     target="_blank"
-     style="text-decoration:none; outline:none">
-    <img src="Socials/exercism.png"
-         width="40"
-         style="vertical-align:middle; outline:none" />
-  </a>
-  <img width="20" height="1" />
-  <a href="https://www.instagram.com/csprasad.ios"
-     target="_blank"
-     style="text-decoration:none; outline:none">
-    <img src="Socials/instagram.png"
-         width="40"
-         style="vertical-align:middle; outline:none" />
-  </a>
-  <img width="20" height="1" />
-  <a href="https://x.com/CSPrasad_iOS"
-     target="_blank"
-     style="text-decoration:none; outline:none">
-    <img src="Socials/x.png"
-         width="40"
-         style="vertical-align:middle; outline:none" />
-  </a>
-  <img width="20" height="1" />
-  <a href="https://medium.com/@codealligator"
-     target="_blank"
-     style="text-decoration:none; outline:none">
-    <img src="Socials/medium.png"
-         width="40"
-         style="vertical-align:middle; outline:none" />
-  </a>
-</div>
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=csprasad&show_icons=true&hide=stars,contribs&hide_border=true&theme=gotham" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=csprasad&theme=gotham&hide_border=true&hide_total_contributions=true" height="160"/>
+<!-- <br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=csprasad&layout=compact&hide_border=true&theme=gotham" /> -->
+
+<br><br>
+[![Exercism](https://img.shields.io/badge/codeAlligator-5D3FD3?style=for-the-badge&logo=exercism&logoColor=white)](https://exercism.org/profiles/codeAlligator)
+[![Instagram](https://img.shields.io/badge/@csprasad.ios-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/csprasad.ios)
+[![X](https://img.shields.io/badge/@CSPrasad__iOS-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/CSPrasad_iOS)
+[![Medium](https://img.shields.io/badge/CSPRasad-1d1a17?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@codealligator)
 
 
-<hr style="border:none; height:1px; background-color:#2d2d2d;" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&desc=I%20like%20turning%20random%20ideas%20into%20SwiftUI%20experiments.&height=100&section=footer&descAlignY=88&descAlignX=50&fontColor=287B77&descSize=15"/>
 
 </div>
