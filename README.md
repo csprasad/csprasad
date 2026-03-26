@@ -14,10 +14,10 @@ Figuring out what actually feels right.
 
 <br>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=csprasad&show_icons=true&hide=stars,contribs&hide_border=true&theme=gotham" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=csprasad&theme=gotham&hide_border=true&hide_total_contributions=true" height="160"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=csprasad&show_icons=true&hide=stars,contribs&hide_border=true&theme=gotham" width="40%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=csprasad&theme=gotham&hide_border=true&hide_total_contributions=true" height="160" width="40%" />
+</div>
 <!-- <br><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=csprasad&layout=compact&hide_border=true&theme=gotham" /> -->
 
