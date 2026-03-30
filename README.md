@@ -15,7 +15,13 @@ Figuring out what actually feels right.
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=csprasad&show_icons=true&hide=stars,contribs&hide_border=true&theme=gotham" width="40%" />
+  <p align="left">
+  <img src="profile/stats.svg" width="48%" />
+  <img src="profile/top-langs.svg" width="48%" />
+</p>
+
+<img src="profile/pin-animations.svg" width="100%" />
+
   <img src="https://github-readme-streak-stats.herokuapp.com?user=csprasad&theme=gotham&hide_border=true&hide_total_contributions=true" height="160" width="40%" />
 </div>
 <!-- <br><br>
