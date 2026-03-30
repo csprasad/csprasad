@@ -1,10 +1,35 @@
 name: Update README cards
+
 on:
-  workflow_dispatch:
   schedule:
+    # Runs at 06:00 UTC on Monday, Wednesday, and Friday
     - cron: "0 6 * * 1,3,5"
+  workflow_dispatch: # Allows you to run it manually for testing
+
 jobs:
-  placeholder:
+  build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
     steps:
-      - run: echo "Syncing UI"
+      - name: Checkout Repository
+        uses: actions/checkout@v6
+
+      - name: Generate Stats Card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          # Matches requirements: Gotham theme, icons, no stars/contribs, no border
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=gotham&hide=stars,contribs&hide_border=true
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          mkdir -p profile
+          git add profile/*.svg
+          # Only commit if the SVG content actually changed to avoid empty commits
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update README cards" && git push)
