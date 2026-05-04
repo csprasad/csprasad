@@ -15,8 +15,8 @@ Figuring out what actually feels right.
 <br>
 
 <div align="center">
-    <img src="profile/stats.svg" width="48%" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=csprasad&theme=gotham&hide_border=true&hide_total_contributions=true" height="160" width="40%" />
+    <img src="profile/stats.svg"  />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=csprasad&theme=gotham&hide_border=true&hide_total_contributions=true&hide_current_streak=true" height="160" />
 </div>
 
 <br><br>
