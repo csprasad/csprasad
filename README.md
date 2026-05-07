@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=160&section=header&text=C%20S%20Prasad&animation=fadeIn&desc=iOS%20Engineer&descAlign=50&descAlignY=40&descSize=15&fontAlign=50&fontAlignY=25&fontSize=30&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=160&section=header&text=C%20S%20Prasad&animation=fadeIn&descAlign=50&descAlignY=50&descSize=15&fontAlign=50&fontSize=30&fontColor=ffffff" />
 
 <h3>Swift • SwiftUI</h3>
 
@@ -15,8 +15,8 @@ Figuring out what actually feels right.
 <br>
 
 <div align="center">
-    <img src="profile/stats.svg" width="48%"  />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=csprasad&theme=gotham&hide_border=true&hide_total_contributions=true&hide_current_streak=true" height="160" width="40%" />
+     <img src="profile/stats.svg" />
+    <!--<img src="https://github-readme-streak-stats.herokuapp.com?user=csprasad&theme=gotham&hide_border=true&hide_total_contributions=true&hide_current_streak=true" height="160" width="40%" /> -->
 </div>
 
 <br><br>
