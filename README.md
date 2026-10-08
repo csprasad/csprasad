@@ -27,8 +27,8 @@ and ideas that probably didn't need to become an app.
 
 | Project | Description |
 | :--- | :--- |
-| **[SwiftUI Animations](https://github.com/csprasad/SwiftUI-Animations)** | Motion, transitions, and interaction experiments in SwiftUI. |
-| **[SwiftUI Games](https://github.com/csprasad/SwiftUI-Games)** | Small games exploring interaction, play, and feel. |
+| **[SwiftUI&nbsp;Animations](https://github.com/csprasad/SwiftUI-Animations)** | Motion, transitions, and interaction experiments in SwiftUI. |
+| **[SwiftUI&nbsp;Games](https://github.com/csprasad/SwiftUI-Games)** | Small games exploring interaction, play, and feel. |
 | **[archive-bot](https://github.com/csprasad/archive-bot)** | A GitHub Action built for [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps), detecting archived, inaccessible, and long-stale projects in the directory. |
 | **[DevLint](https://github.com/csprasad/DevLint)** | A focused developer tool built around simplicity and speed. |
 
