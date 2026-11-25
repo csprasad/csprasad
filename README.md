@@ -23,24 +23,60 @@
 Lately, I've been playing with new SwiftUI interactions, animation experiments,
 and ideas that probably didn't need to become an app.
 
+</div>
+
+<div align="left">
+
 #### Building
 
-| Project | Description |
-| :--- | :--- |
-| **[SwiftUI&nbsp;Animations](https://github.com/csprasad/SwiftUI-Animations)** | Motion, transitions, and interaction experiments in SwiftUI. |
-| **[SwiftUI&nbsp;Games](https://github.com/csprasad/SwiftUI-Games)** | Small games exploring interaction, play, and feel. |
-| **[archive-bot](https://github.com/csprasad/archive-bot)** | A GitHub Action built for [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps), detecting archived, inaccessible, and long-stale projects in the directory. |
-| **[DevLint](https://github.com/csprasad/DevLint)** | A focused developer tool built around simplicity and speed. |
+<p>
+  <a href="https://github.com/csprasad/SwiftUI-Animations">
+  **SwiftUI-Animations ↗**
+  </a> </br>
+  <span>| Motion, transitions, and interaction experiments in SwiftUI. |</span>
+</p>
+
+<p>
+  <img src="https://raw.githubusercontent.com/csprasad/SwiftUI-Animations/main/gifs/batman.gif" width="100" alt="Batman" />
+  <img src="https://raw.githubusercontent.com/csprasad/SwiftUI-Animations/main/gifs/matrixRain.gif" width="100" alt="Matrix Rain" />
+  <img src="https://raw.githubusercontent.com/csprasad/SwiftUI-Animations/main/gifs/sunrise.gif" width="100" alt="Sunrise" />
+  <img src="https://raw.githubusercontent.com/csprasad/SwiftUI-Animations/main/gifs/crowdWalk.gif" width="100" alt="Crowd Walk" />
+  <img src="https://raw.githubusercontent.com/csprasad/SwiftUI-Animations/main/gifs/spaceGrid.gif" width="100" alt="Space Grid" />
+  <img src="https://raw.githubusercontent.com/csprasad/SwiftUI-Animations/main/gifs/layerMask.gif" width="100" alt="Layer Mask" />
+  <img src="https://raw.githubusercontent.com/csprasad/SwiftUI-Animations/main/gifs/petal.gif" width="100" alt="Petal" />
+</p>
+
+<p>
+  <a href="https://github.com/csprasad/SwiftUI-Games">
+  **SwiftUI-Games ↗**
+  </a> </br>
+  <span>| Small games exploring interaction, play, and feel. |</span>
+</p>
+
+<p>
+  <img src="https://raw.githubusercontent.com/csprasad/SwiftUI-Games/main/gifs/commitSnake.gif" width="100" alt="Commit Snake" />
+  <img src="https://raw.githubusercontent.com/csprasad/SwiftUI-Games/main/gifs/dinoRun.gif" width="100" alt="Dino Run" />
+  <img src="https://raw.githubusercontent.com/csprasad/SwiftUI-Games/main/gifs/flappy.gif" width="100" alt="Flappy Bird" />
+  <img src="https://raw.githubusercontent.com/csprasad/SwiftUI-Games/main/gifs/orbit.gif" width="100" alt="Orbit" />
+</p>
+
+<p>
+  <a href="https://github.com/csprasad/SwiftUI-Maps">
+  **SwiftUI-Maps ↗**
+  </a> </br>
+  <span>| Interactive maps, location-based experiences, and custom MapKit explorations in SwiftUI. |</span>
+</p>
+
+<p>
+  <img src="https://raw.githubusercontent.com/csprasad/SwiftUI-Maps/main/gifs/CMD_Deck.gif" width="100" alt="CMD Deck" />
+  <img src="https://raw.githubusercontent.com/csprasad/SwiftUI-Maps/main/gifs/FriendsMap.gif" width="100" alt="Friends Map" />
+  <img src="https://raw.githubusercontent.com/csprasad/SwiftUI-Maps/main/gifs/SearchPlace.gif" width="100" alt="Search Place" />
+  <img src="https://raw.githubusercontent.com/csprasad/SwiftUI-Maps/main/gifs/Simulator.gif" width="100" alt="Simulator" />
+  <img src="https://raw.githubusercontent.com/csprasad/SwiftUI-Maps/main/gifs/weatherSim.gif" width="100" alt="Weather Simulator" />
+</p>
 
 </div>
 
-<div align="center">
-<img src="https://github.com/csprasad/SwiftUI-Animations/blob/main/gifs/batman.gif?raw=true" width="49%" alt="Batman" />
-<img src="https://github.com/csprasad/SwiftUI-Animations/blob/main/gifs/matrixRain.gif?raw=true" width="49%" alt="Matrix Rain" />
-<img src="https://github.com/csprasad/SwiftUI-Animations/blob/main/gifs/sunrise.gif?raw=true" width="49%" alt="Sunrise" />
-<img src="https://github.com/csprasad/SwiftUI-Animations/blob/main/gifs/crowdWalk.gif?raw=true" width="49%" alt="Crowd Walk" />
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=90&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" />
 
 </div>
