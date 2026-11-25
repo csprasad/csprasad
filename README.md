@@ -34,6 +34,13 @@ and ideas that probably didn't need to become an app.
 
 </div>
 
+<div align="center">
+<img src="https://github.com/csprasad/SwiftUI-Animations/blob/main/gifs/batman.gif?raw=true" width="49%" alt="Batman" />
+<img src="https://github.com/csprasad/SwiftUI-Animations/blob/main/gifs/matrixRain.gif?raw=true" width="49%" alt="Matrix Rain" />
+<img src="https://github.com/csprasad/SwiftUI-Animations/blob/main/gifs/sunrise.gif?raw=true" width="49%" alt="Sunrise" />
+<img src="https://github.com/csprasad/SwiftUI-Animations/blob/main/gifs/crowdWalk.gif?raw=true" width="49%" alt="Crowd Walk" />
+</div>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=90&section=footer" />
 
 </div>
